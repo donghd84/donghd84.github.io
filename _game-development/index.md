@@ -1,16 +1,22 @@
 ---
 layout: page
-title: Kungfu PHP
+title: Game Development
 robots: NOINDEX, FOLLOW
 draft: true
 ---
 <!-- SEARCH: # Nhớ sửa đường dẫn tìm kiếm bên dưới # -->
-<div id="search-container">
+<div id="search-container" class="konamiHide">
   <label>
 		<span class="dh-unnecessary">Tìm kiếm</span>
     <input type="text" id="search-input" placeholder="Search...">
   </label>
   <div id="results-container" class="w3-card"></div>
+</div>
+<div id="inputCheat">
+  <label>
+		<span class="dh-unnecessary">Tìm kiếm</span>
+    <input type="text" id="search-input-cheat" placeholder="Search...">
+  </label>
 </div>
 
 <div class="w3-section">
@@ -23,13 +29,14 @@ draft: true
     </div>
 
     {% include disclaimer-not-updated.html %}
-
     {% include disclaimer-copyright.html %}
+
+    {% assign excludeArr = "EXCLUDE_SOMETHING" | split:"," %}
 
     {% assign groups = serial.docs | group_by: "category" %}
     {% for group in groups %}
       {% if group.name != "" %}
-      <div class="w3-section">
+      <div class="w3-section {% if excludeArr contains group.name %}konamiHide{% endif %}">
         <h5 id="{{ group.name }}">{{ group.name | replace: "_", " " }} ({{ group.size }})</h5>
         <ul class="w3-ul">
         {% for doc in group.items %}
@@ -73,7 +80,7 @@ draft: true
     JSearch({
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
-			json: '/collections/php/search.json'
+			json: '/collections/game-development/search.json'
     })
 	})();
 </script>

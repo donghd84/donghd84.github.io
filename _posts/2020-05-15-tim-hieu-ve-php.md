@@ -1,5 +1,5 @@
 ---
-layout: collections
+layout: post
 author_name: Dong Ho
 draft: false # public or not
 sticky: false # sticky or not
@@ -21,9 +21,8 @@ toc: true
 mermaid: false
 highlight: true
 amp: true
-collection: Basic # this for AMP related post
 ### category: dùng để group collection
-category: Basic
+category: PHP
 
 ### Date nếu không có sẽ lấy từ tên file theo format "YEAR-MONTH-DAY-title.md"
 date: 2020-05-15 14:26:14 +0700

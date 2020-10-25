@@ -17,6 +17,8 @@
 3. Trong thư mục Serial tạo file index (VD: _english/index.md) với thuộc tính "noindex, follow" và "draft: true" (bắt buộc phải có file index này)
 4. Tạo file json cho tìm kiếm (VD: _english/search.json) và nhớ sửa đường dẫn file json ở file index
 P/s: Nên copy file mẫu ("_english/index.md" và "_english/search.json") sang Serial mới!
+----
+*) Move một bài viết từ Collection sang Post: đổi layout và đặt lại tên "category"
 
 *) Viết một bài viết
 ---

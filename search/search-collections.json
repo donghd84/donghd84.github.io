@@ -8,9 +8,12 @@ layout: compress
   {% if serials.size > 0 %}
     {% for serial in serials %}
 
+      {% assign addComma = false %}
+
       {% assign docs = serial.docs | where: 'draft', false %}
       {% if docs.size > 0 %}
 
+        {% assign addComma = true %}
         {% for doc in docs %}
           {
             "title"    : "{{ doc.title | escape }}",
@@ -21,7 +24,7 @@ layout: compress
 
       {% endif %}
       
-      {% if forloop.index > 0 %}
+      {% if forloop.index > 0 and addComma == true %}
         {% unless forloop.last %},{% endunless %}
       {% endif %}
     {% endfor %}

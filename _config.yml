@@ -24,6 +24,16 @@ collections:
   authors:
     output: true
   # BEGIN serials
+  game-development:
+    output: true
+    # "isSerial" và "show" để filter
+    isSerial: true
+    show: true
+    # phải có "/collections/" vì đã được hardcore URL trong "categories" và đường dẫn đến "search.json" trong INDEX
+    permalink: /collections/game-development/:title
+    # thumbnail: "/path/to/image.jpg"
+    title: "Game Development"
+    description: "Tổng hợp các ghi chép trên con đường chinh phục Game Development ^^"
   english:
     output: true
     # "isSerial" và "show" để filter
@@ -34,16 +44,16 @@ collections:
     # thumbnail: "/path/to/image.jpg"
     title: "Learning English"
     description: "Tổng hợp các ghi chép trên con đường chinh phục tiếng anh :)"
-  php:
+  mobile-development:
     output: true
     # "isSerial" và "show" để filter
     isSerial: true
     show: true
     # phải có "/collections/" vì đã được hardcore URL trong "categories" và đường dẫn đến "search.json" trong INDEX
-    permalink: /collections/php/:title
+    permalink: /collections/mobile-development/:title
     # thumbnail: "/path/to/image.jpg"
-    title: "Kungfu PHP"
-    description: "Tổng hợp các ghi chép trên con đường chinh phục PHP :D"
+    title: "Mobile Development"
+    description: "Tổng hợp các ghi chép trên con đường chinh phục Mobile Development :D"
   # END serials
 
 # Plugins
