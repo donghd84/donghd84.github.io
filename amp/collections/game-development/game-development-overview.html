@@ -2,8 +2,8 @@
 <html amp lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Tìm hiểu về PHP</title>
-    <link rel="canonical" href="https://donghd.com/collections/php/tim-hieu-ve-php" />
+    <title>Overview</title>
+    <link rel="canonical" href="https://donghd.com/collections/game-development/game-development-overview" />
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <META NAME="ROBOTS" CONTENT="noindex, nofollow, noarchive, nosnippet, noimageindex">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
@@ -14,11 +14,11 @@
       {
         "@context": "http://schema.org",
         "@type": "NewsArticle",
-        "mainEntityOfPage": "https://donghd.com/collections/php/tim-hieu-ve-php",
-        "headline": "Tìm hiểu về PHP",
+        "mainEntityOfPage": "https://donghd.com/collections/game-development/game-development-overview",
+        "headline": "Overview",
         "datePublished": "2020-05-15 14:26:14 +0700",
-        "dateModified": "2020-10-22 00:16:16 +0700",
-        "description": "Cùng tìm hiểu về PHP",
+        "dateModified": "2020-10-26 00:12:32 +0700",
+        "description": "Overview",
         
         "author": {
           "@type": "Person",
@@ -109,7 +109,7 @@
     <!-- ARTICLE -->
     <div class="w3-container">
 
-      <h2>Tìm hiểu về PHP</h2>
+      <h2>Overview</h2>
       <span class="author">
         
         
@@ -117,12 +117,12 @@
         
       </span>
       <time datetime="2020-05-15T14:26:14+07:00" class="by-line"> · 15 May 2020 
-      <span title="reading time">· about 7 mins read </span> · 
+      <span title="reading time">· about 2 mins read </span> · 
       
       <span>
         
         
-        <a href="/pages/categories#Basic" class="hvr-float-shadow">Basic</a>
+        <a href="/pages/categories#Get_Started" class="hvr-float-shadow">Get_Started</a>
         
         
       </span>
@@ -131,190 +131,60 @@
 
       <div class="w3-section">
         <ul class="toc-nav dh-black-8 w3-animate-opacity dh-padding-right-1em">
-<li class="toc-entry toc-h2"><a href="#introduction" spy-toc="Introduction">Introduction</a>
+<li class="toc-entry toc-h3"><a href="#i-chọn-game-engine-để-bắt-đầu" spy-toc="I. Chọn game engine để bắt đầu">I. Chọn game engine để bắt đầu</a></li>
+<li class="toc-entry toc-h3"><a href="#ii-khám-phá-các-dịch-vụ-của-game-engine" spy-toc="II. Khám phá các Dịch vụ của game engine">II. Khám phá các Dịch vụ của game engine</a></li>
+<li class="toc-entry toc-h3"><a href="#iii-các-công-việc-liên-quan" spy-toc="III. Các công việc liên quan:">III. Các công việc liên quan:</a></li>
+<li class="toc-entry toc-h3"><a href="#iv-hành-trang-cần-có" spy-toc="IV. Hành trang cần có">IV. Hành trang cần có</a></li>
+<li class="toc-entry toc-h3"><a href="#v-bản-chất-của-làm-game-là-sáng-tạo-và-mô-phỏng-thế-giới" spy-toc="V: Bản chất của làm game là sáng tạo và mô phỏng thế giới">V: Bản chất của làm game là sáng tạo và mô phỏng thế giới</a></li>
+<li class="toc-entry toc-h3"><a href="#vi-công-cụ-sản-xuất" spy-toc="VI: Công cụ sản xuất:">VI: Công cụ sản xuất:</a></li>
+</ul><h3 id="i-chọn-game-engine-để-bắt-đầu">
+<a class="anchor" href="#i-ch%E1%BB%8Dn-game-engine-%C4%91%E1%BB%83-b%E1%BA%AFt-%C4%91%E1%BA%A7u" aria-hidden="true" spy-title="I. Chọn game engine để bắt đầu"><span class="octicon octicon-link"></span></a>I. Chọn game engine để bắt đầu</h3>
 <ul>
-<li class="toc-entry toc-h3"><a href="#cgi-là-gì" spy-toc="CGI là gì?">CGI là gì?</a></li>
-<li class="toc-entry toc-h3"><a href="#php-có-thể-làm-gì" spy-toc="PHP có thể làm gì?">PHP có thể làm gì?</a></li>
-</ul>
-</li>
-<li class="toc-entry toc-h2"><a href="#php-core" spy-toc="PHP Core">PHP Core</a>
-<ul>
-<li class="toc-entry toc-h3"><a href="#zend-engine" spy-toc="Zend Engine">Zend Engine</a></li>
-<li class="toc-entry toc-h3"><a href="#php-manual" spy-toc="PHP Manual">PHP Manual</a></li>
-</ul>
-</li>
-<li class="toc-entry toc-h2"><a href="#composer" spy-toc="Composer">Composer</a></li>
-<li class="toc-entry toc-h2"><a href="#php-frameworks" spy-toc="PHP frameworks">PHP frameworks</a></li>
-<li class="toc-entry toc-h2"><a href="#tools" spy-toc="Tools">Tools</a></li>
-<li class="toc-entry toc-h2"><a href="#reference" spy-toc="Reference">Reference</a></li>
-<li class="toc-entry toc-h2"><a href="#một-số-thư-viện--repo" spy-toc="Một số thư viện &amp; repo">Một số thư viện &amp; repo</a></li>
-</ul><h2 id="introduction">
-<a class="anchor" href="#introduction" aria-hidden="true" spy-title="Introduction"><span class="octicon octicon-link"></span></a>Introduction</h2>
-
-<p>PHP: một kiểu viết tắt hồi quy của “PHP: Hypertext Preprocessor”. PHP là một <strong>ngôn ngữ lập trình kịch bản</strong> hay một loại <strong>mã lệnh</strong> chủ yếu được dùng để phát triển các ứng dụng <em>viết cho máy chủ, mã nguồn mở</em>, dùng cho mục đích tổng quát. Nó rất thích hợp với web và có thể <strong>dễ dàng nhúng vào trang HTML</strong>. Do được tối ưu hóa cho các ứng dụng web, tốc độ nhanh, nhỏ gọn, cú pháp giống C và Java, dễ học và thời gian xây dựng sản phẩm tương đối ngắn hơn so với các ngôn ngữ khác nên PHP đã nhanh chóng trở thành một ngôn ngữ lập trình web phổ biến nhất thế giới.</p>
-
-<p>Ngôn ngữ, các thư viện, tài liệu gốc của PHP được xây dựng bởi cộng đồng và có sự đóng góp rất lớn của Zend Inc., công ty do các nhà phát triển cốt lõi của PHP lập nên nhằm tạo ra một môi trường chuyên nghiệp để đưa PHP phát triển ở quy mô doanh nghiệp.</p>
-
-<p>P/s: <a href="https://vi.wikipedia.org/wiki/PHP" class="hvr-forward" rel="nofollow" target="_blank">Nguồn wiki</a></p>
-
-<h3 id="cgi-là-gì">
-<a class="anchor" href="#cgi-l%C3%A0-g%C3%AC" aria-hidden="true" spy-title="CGI là gì?"><span class="octicon octicon-link"></span></a>CGI là gì?</h3>
-
-<p><strong>CGI</strong> có thể hiểu nôm na là “<strong>chuẩn gateway</strong>”. Như tên gọi của chuẩn này (<strong>Common Gateway Interface</strong>) nó mô tả cách làm việc của <strong>chuẩn CGI</strong> như sau :</p>
-<ul>
-  <li>Chỉ ra phương thức chung để truy xuất những Script, CGI cho phép bất cứ ai, không phân biệt hệ điều hành, không phân biệt trình duyệt để đều có thể gởi thông tin tới một CGI Script.</li>
-  <li>Ðịnh nghĩa liên kết hoặc gateway giữa Script, Server, và những chương trình khác.</li>
-  <li>Mô tả <strong>interface</strong> hoặc <strong>method</strong> để user có thể truy xuất Script. cho phép người tạo Web che dấu người đọc những phức tạp trong việc xử lý các dữ liệu trong trang Web.</li>
+  <li>Chọn 1 game engine (Unity, Unread, Godot, Cocos..), tải về, đăng ký tài khoản development</li>
 </ul>
 
-<p>Khi Webserver nhận yêu cầu xử lý của Client, nó sẽ đẩy cho CGI để truy xuất dữ liệu (từ form, sessions, cookies, database, file …) và xử lý, Webserver sẽ lấy output (thường là HTML) và trả về cho Client.</p>
-
-<p>Xem thêm</p>
+<h3 id="ii-khám-phá-các-dịch-vụ-của-game-engine">
+<a class="anchor" href="#ii-kh%C3%A1m-ph%C3%A1-c%C3%A1c-d%E1%BB%8Bch-v%E1%BB%A5-c%E1%BB%A7a-game-engine" aria-hidden="true" spy-title="II. Khám phá các Dịch vụ của game engine"><span class="octicon octicon-link"></span></a>II. Khám phá các Dịch vụ của game engine</h3>
 <ul>
-  <li><a href="https://en.wikipedia.org/wiki/Common_Gateway_Interface" class="hvr-forward" rel="nofollow" target="_blank">Common Gateway Interface</a></li>
-  <li><a href="https://computer.howstuffworks.com/cgi.htm" class="hvr-forward" rel="nofollow" target="_blank">How CGI Scripting Works</a></li>
-  <li><a href="https://en.wikipedia.org/wiki/FastCGI" class="hvr-forward" rel="nofollow" target="_blank">FastCGI</a></li>
+  <li>Các dịch vụ để phát triển game như: Kiếm tiền, phân tích, devops, Multiplay, Quản lý và cung cấp các bản cập nhật, Cấu hình từ xa, Mô phỏng trò chơi…</li>
 </ul>
 
-<h3 id="php-có-thể-làm-gì">
-<a class="anchor" href="#php-c%C3%B3-th%E1%BB%83-l%C3%A0m-g%C3%AC" aria-hidden="true" spy-title="PHP có thể làm gì?"><span class="octicon octicon-link"></span></a>PHP có thể làm gì?</h3>
-
-<p>PHP có thể làm bất cứ điều gì mà bất kỳ chương trình CGI nào khác có thể làm, chẳng hạn như thu thập dữ liệu biểu mẫu, tạo nội dung trang động hoặc gửi và nhận cookie. Nhưng PHP có thể làm nhiều hơn thế. Có ba lĩnh vực chính mà các tập lệnh PHP được sử dụng.</p>
-<ul>
-  <li>
-<strong>Server-side scripting</strong>: Bạn sẽ cần Web Server, trình phân tích cú pháp PHP (CGI hoặc mô đun máy chủ). <a href="https://www.php.net/manual/en/install.php" class="hvr-forward" rel="nofollow" target="_blank">Hướng dẫn cài đặt.</a>
-</li>
-  <li>
-<strong>Command line scripting</strong>: Kiểu sử dụng này là lý tưởng cho các tập lệnh được thực thi thường xuyên bằng cron, task scheduler … <a href="https://www.php.net/manual/en/features.commandline.php" class="hvr-forward" rel="nofollow" target="_blank">Cách sử dụng dòng lênh với PHP</a>
-</li>
-  <li>Viết ứng dụng máy tính để bàn (<strong>desktop applications</strong>): Không phải là lựa chọn tốt nhất để viết những ứng dụng có giao diện đồ họa, tuy nhiên bạn cũng có thể sử dụng <strong>PHP-GTK</strong> để viết desktop applications nếu bạn yêu thích PHP. Vì PHP đa nền tảng nên các ứng dụng viết ra cũng đa nền tảng theo cách này. PHP-GTK là một phần mở rộng cho PHP, không có sẵn trong bản phân phối chính. Nếu bạn quan tâm thì có thể tham khảo <a href="http://gtk.php.net/" class="hvr-forward" rel="nofollow" target="_blank">Building Desktop Applications in PHP with PHP-GTK</a>
-</li>
-</ul>
-
-<p>PHP đã hỗ trợ cho hầu hết các máy chủ web hiện nay, bao gồm <strong>Apache, IIS</strong> và nhiều thứ khác (bất kỳ máy chủ web nào có thể sử dụng nhị phân <strong>PHP FastCGI</strong>, như <strong>lighttpd</strong> và <strong>nginx</strong>). PHP hoạt động như một mô-đun hoặc bộ xử lý CGI. Vì vậy, với PHP, bạn có quyền tự do lựa chọn một hệ điều hành và một máy chủ web. Hơn nữa, bạn cũng có thể lựa chọn sử dụng <strong>lập trình thủ tục</strong> hoặc <strong>lập trình hướng đối tượng</strong> (<strong>OOP</strong>) hoặc <em>kết hợp cả hai</em>.</p>
-
-<p>PHP hỗ trợ làm việc với một loạt các database thông qua các cách khác nhau:</p>
-<ul>
-  <li><a href="https://www.php.net/manual/en/refs.database.php" class="hvr-forward" rel="nofollow" target="_blank">Database Extensions</a></li>
-  <li><a href="https://www.php.net/manual/en/book.mysqli.php" class="hvr-forward" rel="nofollow" target="_blank">MySQL Improved Extension</a></li>
-  <li><a href="https://www.php.net/manual/en/book.pdo.php" class="hvr-forward" rel="nofollow" target="_blank">PHP Data Objects</a></li>
-  <li><a href="https://www.php.net/manual/en/book.uodbc.php" class="hvr-forward" rel="nofollow" target="_blank">ODBC Extension</a></li>
-  <li><a href="https://www.php.net/manual/en/book.curl.php" class="hvr-forward" rel="nofollow" target="_blank">Client URL Library</a></li>
-  <li><a href="https://www.php.net/manual/en/book.sockets.php" class="hvr-forward" rel="nofollow" target="_blank">Sockets</a></li>
-</ul>
-
-<p>PHP hỗ trợ để giao tiếp với các service khác bằng các giao thức như <strong>LDAP, IMAP, SNMP, NNTP, POP3, HTTP, COM</strong> (trên Windows) và vô số các dịch vụ khác. Bạn cũng có thể mở “<strong>network sockets</strong>” thô để sử dụng với bất kỳ kiểu protocol nào khác.</p>
-
-<p>PHP hỗ trợ xử lý văn bản và XML</p>
-<ul>
-  <li><a href="https://www.php.net/manual/en/refs.basic.text.php" class="hvr-forward" rel="nofollow" target="_blank">Text Processing</a></li>
-  <li><a href="https://www.php.net/manual/en/book.pcre.php" class="hvr-forward" rel="nofollow" target="_blank">Regular Expressions (Perl-Compatible)</a></li>
-  <li><a href="https://www.php.net/manual/en/refs.xml.php" class="hvr-forward" rel="nofollow" target="_blank">XML Manipulation</a></li>
-  <li><a href="https://www.php.net/manual/en/book.libxml.php" class="hvr-forward" rel="nofollow" target="_blank">libxml</a></li>
-  <li><a href="https://www.php.net/manual/en/book.simplexml.php" class="hvr-forward" rel="nofollow" target="_blank">SimpleXML</a></li>
-  <li><a href="https://www.php.net/manual/en/book.xmlreader.php" class="hvr-forward" rel="nofollow" target="_blank">XMLReader</a></li>
-  <li><a href="https://www.php.net/manual/en/book.xmlwriter.php" class="hvr-forward" rel="nofollow" target="_blank">XMLWriter</a></li>
-</ul>
-
-<p>Cùng với vô vàn những thứ mà PHP có thể làm được khác, xem thêm ở trang tài liệu của PHP.</p>
-<ul>
-  <li><a href="https://www.php.net/manual/en/funcref.php" class="hvr-forward" rel="nofollow" target="_blank">Function Reference</a></li>
-  <li><a href="https://www.php.net/manual/en/extensions.php" class="hvr-forward" rel="nofollow" target="_blank">Extension List/Categorization</a></li>
-</ul>
-
-<h2 id="php-core">
-<a class="anchor" href="#php-core" aria-hidden="true" spy-title="PHP Core"><span class="octicon octicon-link"></span></a>PHP Core</h2>
-
-<h3 id="zend-engine">
-<a class="anchor" href="#zend-engine" aria-hidden="true" spy-title="Zend Engine"><span class="octicon octicon-link"></span></a>Zend Engine</h3>
-<ul>
-  <li><a href="https://en.wikipedia.org/wiki/Zend_Engine" class="hvr-forward" rel="nofollow" target="_blank">Zend Engine</a></li>
-</ul>
-
-<h3 id="php-manual">
-<a class="anchor" href="#php-manual" aria-hidden="true" spy-title="PHP Manual"><span class="octicon octicon-link"></span></a>PHP Manual</h3>
-<ul>
-  <li><a href="https://www.php.net/manual/en/" class="hvr-forward" rel="nofollow" target="_blank">PHP Manual</a></li>
-  <li><a href="https://www.w3schools.com/php/" class="hvr-forward" rel="nofollow" target="_blank">PHP Tutorial</a></li>
-  <li><a href="/collections/php/tim-hieu-ve-php" class="hvr-forward" target="_blank">Cơ bản về PHP</a></li>
-</ul>
-
-<h2 id="composer">
-<a class="anchor" href="#composer" aria-hidden="true" spy-title="Composer"><span class="octicon octicon-link"></span></a>Composer</h2>
-
-<p>Composer không quản lý package giống như NPM, YUM, APT… mà nó quản lý “packages” trên mỗi project, tải chúng về thư mục “vendor” của project. Nếu tôi muốn quản lý “global” thì sao? <a href="https://getcomposer.org/doc/03-cli.md#global" class="hvr-forward" rel="nofollow" target="_blank">Xem ở đây</a></p>
-
-<p>Để sử dụng Composer bạn sẽ cần phải có file <code class="highlighter-rouge">composer.json</code> để quản lý dependency và version dùng cho project, sau khi chạy Composer để install, bạn sẽ thấy file <code class="highlighter-rouge">composer.lock</code>, file này quan trọng và bạn cần commit nó lên project repo để các thành viên khác (và cả CI server, production server…) họ sẽ biết chính xác version nào sẽ được dùng, tránh trường hợp sau khi Comporser install xong thì thấy lỗi tùm lum.</p>
-
-<p>Composer có tạo một file <code class="highlighter-rouge">vendor/autoload.php</code>. Bạn đơn giản chỉ cần include file này và bắt đầu sử dụng các class trong library mà không cần phải làm gì khác:</p>
-
-<div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">require</span> <span class="k">__DIR__</span> <span class="o">.</span> <span class="s1">'/vendor/autoload.php'</span><span class="p">;</span>
-
-<span class="nv">$log</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">Monolog\Logger</span><span class="p">(</span><span class="s1">'name'</span><span class="p">);</span>
-<span class="nv">$log</span><span class="o">-&gt;</span><span class="na">pushHandler</span><span class="p">(</span><span class="k">new</span> <span class="nx">Monolog\Handler\StreamHandler</span><span class="p">(</span><span class="s1">'app.log'</span><span class="p">,</span> <span class="nx">Monolog\Logger</span><span class="o">::</span><span class="na">WARNING</span><span class="p">));</span>
-<span class="nv">$log</span><span class="o">-&gt;</span><span class="na">addWarning</span><span class="p">(</span><span class="s1">'Foo'</span><span class="p">);</span>
+<h3 id="iii-các-công-việc-liên-quan">
+<a class="anchor" href="#iii-c%C3%A1c-c%C3%B4ng-vi%E1%BB%87c-li%C3%AAn-quan" aria-hidden="true" spy-title="III. Các công việc liên quan:"><span class="octicon octicon-link"></span></a>III. Các công việc liên quan:</h3>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- Game Developer: đây là tên gọi phổ biến nó giống như Software Engineer dùng để chỉ 1 người làm công việc phát triển game
+- Gameplay Programmer: lập trình ra cách game sẽ vận hành (tạo ra gameplay), phần lớn mọi người đều muốn trở thành Gameplay Programmer khi họ bắt đầu nghĩ về lập trình game.
+- Level UI Programmer: thiết kế giao diện và các tính năng liên quan cho game
+- Engine Programmer: tạo ra các game engine hỗ trợ cho việc làm game
+- Network Programmer: lập trình các tính năng (thực hiện ở phía máy chủ hoặc cần có internet) cho game online
+- ...
+- Game Artist: thiết kế hình ảnh trong game
+- Game Music Artist: thiết kế âm thanh trong game
+- Game Designer: thiết kế nội dung và câu chuyện cho game
+- ...
 </code></pre></div></div>
 
-<p>Bạn cũng có thể thêm <code class="highlighter-rouge">autoload</code> cho mã của mình ở file <code class="highlighter-rouge">composer.json</code></p>
-
-<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
-    </span><span class="nl">"autoload"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
-        </span><span class="nl">"psr-4"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="nl">"Acme\\"</span><span class="p">:</span><span class="w"> </span><span class="s2">"src/"</span><span class="p">}</span><span class="w">
-    </span><span class="p">}</span><span class="w">
-</span><span class="p">}</span><span class="w">
-</span></code></pre></div></div>
-
-<p>Sau khi thêm <code class="highlighter-rouge">autoload</code> ở trên bạn phải chạy lại câu lệnh sau để Composer cập nhật <code class="highlighter-rouge">vendor/autoload.php</code></p>
-
-<pre><code class="language-cmd">php composer.phar dump-autoload
-</code></pre>
-
-<p>Hoặc bạn cũng có thể <code class="highlighter-rouge">autoload</code> trong code của mình giống như thế này:</p>
-
-<div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$loader</span> <span class="o">=</span> <span class="k">require</span> <span class="k">__DIR__</span> <span class="o">.</span> <span class="s1">'/vendor/autoload.php'</span><span class="p">;</span>
-<span class="nv">$loader</span><span class="o">-&gt;</span><span class="na">addPsr4</span><span class="p">(</span><span class="s1">'Acme\\Test\\'</span><span class="p">,</span> <span class="k">__DIR__</span><span class="p">);</span>
+<h3 id="iv-hành-trang-cần-có">
+<a class="anchor" href="#iv-h%C3%A0nh-trang-c%E1%BA%A7n-c%C3%B3" aria-hidden="true" spy-title="IV. Hành trang cần có"><span class="octicon octicon-link"></span></a>IV. Hành trang cần có</h3>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- Kĩ thuật lập trình (bắt buộc): lập trình, gỡ lỗi, sửa lỗi...
+- Thuật toán (bắt buộc): cải thiện hiệu năng, game nhẹ, mượt...
+- Programming Paradigm: là functional programming, object-oriented mà các bạn được học ở trường hay data-oriented mà Unity vừa giới thiệu trong thời gian qua.
+- Hệ điều hảnh &amp; Kiến trúc máy tính: hiểu các device sẽ support (game chạy trên đó)
+- Mạng máy tính: game online, độ trễ, mất gói tín, lag giật...
 </code></pre></div></div>
 
-<p>Nâng cao về <code class="highlighter-rouge">autoload</code> trên môi trường “production” (không nên làm điều này ở môi trường “develop”), xem thêm <a href="https://getcomposer.org/doc/articles/autoloader-optimization.md#how-to-run-it-" class="hvr-forward" rel="nofollow" target="_blank">Autoloader Optimization</a></p>
+<h3 id="v-bản-chất-của-làm-game-là-sáng-tạo-và-mô-phỏng-thế-giới">
+<a class="anchor" href="#v-b%E1%BA%A3n-ch%E1%BA%A5t-c%E1%BB%A7a-l%C3%A0m-game-l%C3%A0-s%C3%A1ng-t%E1%BA%A1o-v%C3%A0-m%C3%B4-ph%E1%BB%8Fng-th%E1%BA%BF-gi%E1%BB%9Bi" aria-hidden="true" spy-title="V: Bản chất của làm game là sáng tạo và mô phỏng thế giới"><span class="octicon octicon-link"></span></a>V: Bản chất của làm game là sáng tạo và mô phỏng thế giới</h3>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- Toán, vật lý: toán, vật lý là những thứ được dùng để giải thích các sự vật hiện tượng.
+- Biết thôi chưa đủ, còn phải biết dùng nữa nên đừng học mỗi định nghĩa.
+</code></pre></div></div>
 
-<p>Xem hướng dẫn sử dụng Composer trong command line hoặc trên <a href="https://getcomposer.org/doc/03-cli.md#install" class="hvr-forward" rel="nofollow" target="_blank">Composer Website</a></p>
-
-<h2 id="php-frameworks">
-<a class="anchor" href="#php-frameworks" aria-hidden="true" spy-title="PHP frameworks"><span class="octicon octicon-link"></span></a>PHP frameworks</h2>
-<ul>
-  <li><a href="https://laravel.com/" class="hvr-forward" rel="nofollow" target="_blank">Laravel</a></li>
-  <li><a href="https://symfony.com/" class="hvr-forward" rel="nofollow" target="_blank">Symfony</a></li>
-  <li><a href="https://www.yiiframework.com/" class="hvr-forward" rel="nofollow" target="_blank">Yii framework</a></li>
-  <li><a href="https://framework.zend.com/" class="hvr-forward" rel="nofollow" target="_blank">Zend Framework</a></li>
-</ul>
-
-<h2 id="tools">
-<a class="anchor" href="#tools" aria-hidden="true" spy-title="Tools"><span class="octicon octicon-link"></span></a>Tools</h2>
-<ul>
-  <li><a href="https://psysh.org/" class="hvr-forward" rel="nofollow" target="_blank">PsySH: A runtime developer console</a></li>
-  <li><a href="https://xdebug.org/" class="hvr-forward" rel="nofollow" target="_blank">Xdebug</a></li>
-  <li><a href="https://raygun.com/languages/php" class="hvr-forward" rel="nofollow" target="_blank">PHP Error Monitoring with Raygun</a></li>
-  <li><a href="https://www.inspector.dev/" class="hvr-forward" rel="nofollow" target="_blank">Laravel Monitoring Using Inspector</a></li>
-</ul>
-
-<h2 id="reference">
-<a class="anchor" href="#reference" aria-hidden="true" spy-title="Reference"><span class="octicon octicon-link"></span></a>Reference</h2>
-<ul>
-  <li><a href="https://www.php.net/docs.php" class="hvr-forward" rel="nofollow" target="_blank">PHP Documentation</a></li>
-  <li><a href="https://getcomposer.org/" class="hvr-forward" rel="nofollow" target="_blank">A Dependency Manager for PHP</a></li>
-  <li><a href="https://packagist.org/explore/" class="hvr-forward" rel="nofollow" target="_blank">The PHP Package Repository</a></li>
-  <li><a href="https://www.php-fig.org/psr/" class="hvr-forward" rel="nofollow" target="_blank">PHP Standards Recommendations</a></li>
-  <li><a href="https://qa.php.net/" class="hvr-forward" rel="nofollow" target="_blank">PHP Quality Assurance</a></li>
-  <li><a href="https://www.w3schools.com/php/" class="hvr-forward" rel="nofollow" target="_blank">PHP Tutorial</a></li>
-</ul>
-
-<h2 id="một-số-thư-viện--repo">
-<a class="anchor" href="#m%E1%BB%99t-s%E1%BB%91-th%C6%B0-vi%E1%BB%87n--repo" aria-hidden="true" spy-title="Một số thư viện &amp; repo"><span class="octicon octicon-link"></span></a>Một số thư viện &amp; repo</h2>
-<ul>
-  <li><a href="https://asgardcms.com/" class="hvr-forward" rel="nofollow" target="_blank">AsgardCms</a></li>
-  <li><a href="https://github.com/nWidart/laravel-modules" class="hvr-forward" rel="nofollow" target="_blank">Module Management In Laravel</a></li>
-</ul>
-
+<h3 id="vi-công-cụ-sản-xuất">
+<a class="anchor" href="#vi-c%C3%B4ng-c%E1%BB%A5-s%E1%BA%A3n-xu%E1%BA%A5t" aria-hidden="true" spy-title="VI: Công cụ sản xuất:"><span class="octicon octicon-link"></span></a>VI: Công cụ sản xuất:</h3>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- Game Engine
+- Công cụ xử lí ảnh, âm thanh
+- Text Editor, IDE
+- Source Control (GIT)
+</code></pre></div></div>
 
       </div>
 
