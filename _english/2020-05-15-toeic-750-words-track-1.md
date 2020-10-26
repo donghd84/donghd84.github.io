@@ -1034,3 +1034,631 @@ date: 2020-05-15 14:26:14 +0700
 
 |	**Starting a new business** *has its risks*, {% u but also %} **many rewards**.	|	Thành lập một doanh nghiệp mới có rủi ro nhưng cũng có nhiều lợi ích.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+## 2. Offices Issues (Hành chính văn phòng)
+
+### 2-1. Board Meetings (Cuộc họp hội đồng)
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/750-words/TRACK07.mp3 %}
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **capacity** (n) sức chứa, dung tích, năng suất
+- [R] surplus capacity (n) năng suất thặng dư
+- [R] capacious (adj) rộng
+
+|	The boardroom has a large seating capacity.	|	Phòng họp của công ty có sức chưa lớn.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **expose** (v) phơi bày, bộc lộ
+- [S] uncover (v) phơi bày, bộc lộ
+- [A] protect (v) bảo vệ
+- [R] exposed (adj) trần truồng
+- [R] exposure (n) sự phơi bày, sự tiết lộ
+
+|	The problem was exposed at the meeting.	|	Vấn đề được phơi bày tại cuộc họp.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **initiative** (n) sáng kiến
+- [R] initiate (v) bắt đầu, sáng tạo
+- [R] initial (adj) thoạt đầu, mở đầu, sớm nhất
+
+<div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">initiative thường được dùng với từ take, seize, lose... ngoài ra, initiative cũng có thể làm tính từ "mở đầu, sớm nhất"</div>
+
+|	I took the initiative of calling a meeting.	|	Tôi bắt đầu kêu gọi cuộc họp.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **mention** (v) đề cập
+- [S] note (v) ghi chú, lưu ý
+
+|	I think what you said is important. Maybe you sould mention it at the meeting.	|	Tôi nghĩ những gì bạn nói là quan trọng. Có lẽ bạn nên đề cập nó tại buổi họp.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **outlook** (n) viễn cảnh, quan điểm
+- [S] prospect (n) viễn cảnh
+
+|	With the appointment of a new CEO, the company's outlook has gotten better.	|	Với việc bổ nhiệm giám đốc điều hành mới, viễn cảnh của công ty sẽ tốt hơn.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **sharp** (adv) chính xác
+- [S] exactly (adv) chính xác
+
+<div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">sharp có thể làm tính từ, ý nghĩa thường gặp là "sắc, nhọn"</div>
+
+|	The meeting starts at nine o'clock sharp, so don't be late.	|	Cuộc họp bắt đầu lúc 9 giờ đúng, vì vậy đừng đến trễ.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+### 2-2. Committees (Ủy ban)
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/750-words/TRACK08.mp3 %}
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **appoint** (v) chọn, bổ nhiệm, chỉ định
+- [R] appointed (adj) được bổ nhiệm
+- [R] appointment (n) sự bổ nhiệm, sự chỉ định
+
+<div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">be appointed chỉ "được bổ nhiệm làm..." phía sau trực tiếp thêm xưng hô.</div>
+
+|	He had the most successful track record, so he was appointed head of the new project.	|	Anh ấy có thành tích cá nhân thành công nhất, vì vậy anh ấy được chỉ định làm trưởng nhóm cho dự án mới.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **association** (n) sự hợp tác
+- [R] associated (adj) có kết hợp, cùng cộng tác
+- [R] associate (v) kết hợp, liên kết
+
+<div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">khi association chỉ "kết hợp, liên kết", là danh từ không đếm được</div>
+
+|	Our long-term association with your advertising firm has brought benefits to both sides.	|	Sự hợp tác lâu dài của chúng tôi với công ty quảng cáo của bạn đã mang đến lợi ích cho cả hai bên.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **colleague** (n) đồng nghiệp
+- [S] coworker (n) đồng nhiệp
+
+|	My colleague would be happy to meet with you and answer any questions you have.	|	Đồng nghiệp của tôi vui vẻ gặp và trả lời những thắc mắc của các bạn.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **commitment** (n) sự ủy thác, sự chuyển giao một dự luật
+- [R] commit (v) giao phó, ủy thác
+- [R] commited (adj) tận tụy, hết lòng
+
+|	The U.S army demands a four-year commitment from its enlistees.	|	Quân đội Mỹ đòi hỏi sự chuyển giao 4 năm 1 lần từ những người có tên trên danh sách.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **committee** (n) ủy ban
+- [R] executive committee (n) ủy ban điều hành
+
+<div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">khi committee chỉ "ủy viên" là danh từ phức hợp.</div>
+
+|	Congresspeople all have to serve on committees that facilitate the evaluation of laws.	|	Tất cả nghĩ sĩ quốc hội phải phục vụ trên những ủy ban tạo thuận tiện trong việc đánh giá các điều luật.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **consensus** (n) sự thống nhất, sự nhất trí
+- [R] consensus of opinion (n) sự nhất trí ý kiến
+
+|	By general consensus, Jerry was picked as the class president.	|	Qua sự nhất trí chung. Jerry được bầy làm lớp trưởng của lớp.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **discharge** (v) sa thải
+
+<div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">discharge cũng có thể chỉ "xả điện", ví dụ: discharge electricity, từ trái nghĩa là "charge"</div>
+
+|	He was discharged after failing to meet company standards.	|	Anh ta bị sa thải sau khi không đáp ứng được tiêu chuẩn của công ty.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **executive** (n, adj) người điều hành, giám đốc điều hành
+- [R] executive officer (n) nhân viên điều hành
+- [R] execution (n) sự thi hành, sự thực hiện
+- [R] execute (v) thi hành một nhiệm vụ, xử tử...
+
+<div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">khi executive làm danh từ, còn có thể chỉ "cơ quan hành chính, nghành hành pháp của một chính phủ"</div>
+
+|	His ambition is to become an executive in a multinational corporation.	|	Hoài bão của anh ta là trở thành giám đốc điều hành tạo một công ty đa quốc gia.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+### 2-3. Communication (Thông tin)
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/750-words/TRACK09.mp3 %}
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **appreciation** (n) sự biết ơn, sự đánh giá cao
+- [S] gratitude (n) sự biết ơn
+- [A] depreciation (n) sự làm giảm giá trị
+- [R] appreciate (v) biết ơn, đánh giá cao
+
+|	We need to send a letter of appreciation to the mayor for helping us out yesterday.	|	Chúng ta cần gửi một lá thư cám ơn ông thị trưởng vì đã giúp đỡ chúng ta hôm qua.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **authorization** (n) sự ủy quyền
+- [R] authorize (v) ủy quyền
+
+|	We have gotten authorization from our boss to agree to your terms.	|	Chúng tôi được ông chủ ủy quyền để chấp nhận các điều khoản của bạn
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **branch** (n) nhánh, chi nhánh
+
+|	You can contact the company either at the main headquarters or the branch office nearest you.	|	Bạn cần liên hệ với công ty tại trụ sở chính hoặc văn phòng chi nhánh gần bạn nhất.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **bulletin** (n) bản báo cáo, bản thông báo
+- [R] bulletin board (n) bản thông báo
+
+|	Justin posted a bulletin at the dorm that said he was looking for a new roommate.	|	Justin đã dán một bản thông báo tại ký túc xá thông báo rằng anh ấy đang tìm một người bạn ở chung phòng mới.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **correspondence** (n) sự liên lạc thư từ
+- [R] correspondent (n) người giao dịch bằng thư từ
+- [R] correspond (v) giao dịch trao đổi bằng thư tín
+
+|	Most of the company's correspondence is now done by e-mail.	|	Hầu hết việc liên lạc của công ty bây giờ được thực hiện bằng thư điện tử.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **delete** (v) xóa
+- [S] erase, cancel (v) xóa, hủy bỏ
+- [R] deletion (n) sự xóa bỏ
+
+|	Can I delete these e-mails now?	|	Bây giờ tôi có thể xóa những bức thư điện tử này chứ?
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **disk** (n) ổ đĩa
+- [R] hard disk (n) đĩa cứng
+- [R] disk drive (n) ổ đĩa
+
+|	Be sure to save all your files on a disk.	|	Hãy đảm bảo lưu tất cả hồ sơ dữ liệu trên ổ đĩa
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **forward** (adv) trước, phía trước
+- [A] backward (adv, adj) lạc hậu, thụt lùi đằng sau
+
+<div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">forward cũng có thể làm tính từ, chỉ "hướng về trước, phía trước"</div>
+
+|	Arguing about past mistakes does not help you move forward to success.	|	Tranh cãi về những lỗi lầm trong quá khứ không giúp anh đạt được thành công phía trước.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **glimpse** (n, v) sự liếc nhìn thoáng qua, liếc qua
+- [S] glance, peep (n) liếc nhìn
+
+<div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">Mẫu câu thường dùng là "have/catch a glimpse of N"</div>
+
+|	I only had a glimpe of the tax; I'll read it properly now.	|	Tôi chỉ mới liếc qua tờ fax; bây giờ tôi sẽ đọc chi tiết nó.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **ignore** (v) phớt lờ, xao lãng
+- [S] disregard, neglect, overlook (v) xao lãng
+- [R] ignorant (adj) thất học, mù chữ, dốt nát
+
+|	You must answer the telephone; you can't keep ignoring it.	|	Bạn phải trả lời điện thoại, bạn không thể phớt lờ hoài.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **interaction** (n) sự giao tiếp
+- [R] interact (v) giao tiếp
+- [R] interactive (adj) ảnh hưởng lẫn nhau
+
+|	Computers are more efficient, but customers often prefer interaction with real people.	|	Máy tính có nhiều lợi ích nhưng khách hàng thường thích giao tiếp với người thật hơn.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **letterhead** (n) giấy viết thư
+
+|	All correspondence with our clients must be put on company letterhead.	|	Tất cả giao dịch bằng thư từ với khách hàng của chúng ta phải được viết trên giấy viết thư của công ty.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **physically** (adv) về thân thể
+- [A] mentally (adv) về đầu óc
+- [R] physical (adj) thuộc về thân thể, thể chất
+- [R] physics (n) môn vật lý, khoa vật lý
+
+|	The good thing about e-mails is that you don't have to physically send them.	|	Mặt tốt của thư điện tử là bạn không cần gửi chúng bằng sức người.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **popularity** (n) sự phổ biến
+- [S] favor (n) sự đặc ân
+- [R] popular (adj) phổ biến
+
+|	Faxes are losing popularity as people prefer to send e-mails.	|	Fax dần mất tính phổ biến khi người ta thích gửi bằng thư điện tử hơn.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **provider** (n) nhà cung cấp
+- [R] provide (v) cung cấp
+- [R] internet service provider (ISP) nhà cung cấp dịch vụ internet
+
+|	The Internet provider will send you monthly bills.	|	Nhà cung cấp dịch vụ Internet sẽ gửi hóa đơn hàng tháng cho bạn.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+### 2-4. Funiture & Equiment (Thiết bị văn phòng)
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/750-words/TRACK10.mp3 %}
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **affordable** (adj) đủ khả năng, đủ điều kiện
+- [R] afford (v) có đủ sức, có thể
+
+|	This computer system is very affordable.	|	Hệ thống máy tính này rất hữu dụng.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **allocate** (v) cấp cho, phân phát
+- [S] allot (v) cấp cho, phân phát, chia phần
+- [R] allocation (n) sự cấp phát
+
+<div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">biểu thị "đem vật gì đó chia cho người nào đó", cách dùng là "allocate STH to SB" hoặc "allocate SB STH"</div>
+
+|	Every member of staff is allocated his or her own desk.	|	Mỗi nhân viên được cấp một chiếc bàn làm việc.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **assemble** (v) họp lại, tụ tập, ráp
+- [S] gather, put together (v) tụ tập, họp lại
+- [A] disassemble (v) giải thể, giải tán
+- [R] assembly (n) hội nghị
+- [R] assembly hall (n) phòng hội nghị
+- [R] assembly line (n) dây chuyền lắp ráp
+
+|	The new desks have arrived, but we need to assemble them ourselves.	|	Những chiếc bàn mới vừa đến nhưng chúng ta cần ráp chúng lại với nhau.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **compatible** (adj) tương thích, tương hợp
+- [A] incompatible (adj) không tương thích
+- [R] compatibility (n) sự tương thích, tính tương hợp
+
+<div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">thường dùng với giới từ with</div>
+
+|	Are these printers compatible with our computer system?	|	Những máy in này tương thích với hệ thống máy tính của bạn chứ?
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **courier** (n) người đưa thư
+
+<div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">khi courier làm danh từ, thì có ý chỉ "người đưa thư khẩn cấp" hoặc "hướng dẫn viên du lịch"</div>
+
+|	I am sending this package by courier right away, as it must arrive before noon.	|	Tôi sẽ yêu cầu người đưa thư gửi kiện hàng này ngay lập tức vì nó phải đến trước buổi trưa.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **durable** (adj) bền
+- [R] durability (n) sự bền, sức bền
+- [R] durable goods (n) hàng hóa bền
+
+|	The strong plastic makes these chairs very durable.	|	Nhựa dẻo làm cho những chiêc ghế này rất bền.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **express** (adj) nhanh, cấp tốc
+- [R] express mail (n) thư cấp tốc
+
+<div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">express có thể làm danh từ, biểu thị "xe tốc hành, chuyển phát nhanh"</div>
+
+|	This letter needs to arrive tomorrow, so please send it by express delivery.	|	Bức thư này cần đến vào ngày mai, vì thế hãy gửi nó cấp tốc.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **fold** (v) xếp, gấp (một tờ giấy)
+- [A] unfold (v) mở nếp gấp ra
+- [R] folder (n) người gấp giấy
+
+<div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">fold còn có thể chỉ "(công ty) phá sản"</div>
+
+|	We should hire someone to fold all these letters an put them in the envelopes.	|	Chúng ta nên thuê ai đó gấp những bức thư này và bỏ chúng vào phong bì.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **layout** (n) cách bố trí, cách trình bày
+- [S] format, arrangement (n) sự định dạng, sự bố trí
+- [R] lay out (n) định dạng, trình bày
+
+|	I'm working on the layout of the company newsletter.	|	Tôi đang làm công việc trình bày bản tin cho công ty.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **network** (n) hệ thống, mạng
+- [R] road network, rail network (n) hệ thống đường, đường ray
+- [R] local area network (n) mạng khu vực địa phương
+
+<div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">khi network làm động từ, có thể chỉ "giao thiệp để tìm kiếm cơ hội kinh doanh, công việc làm ăn"</div>
+
+|	A computer network allows you to see files on other people's computers.	|	Mạng máy vi tính cho phép bạn nhìn thấy tất cả hồ sơ trên máy tính người khác.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **outdated** (adj) lỗi thời
+- [S] old, fashioned, out-of-date (adj) lỗi thời
+
+|	The computer system is outdated; we need to get a new one.	|	Hệ thống máy tính này lỗi thời rồi; chúng ta cần có một hệ thống mới
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **replace** (v) thay thế
+- [S] displace (v) thế chỗ
+- [R] replaceable (adj) có thể thay thế được
+- [R] replacement (n) sự thay thế
+
+<div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">cách dùng để biểu thị ý "dùng B thay thế A" là "replace A with B"</div>
+
+|	All the chair have been replaced with newer, more comfortable ones.	|	Tất cả những chiếc ghế này cần được thay thế bằng những chiêc mới hơn, thoải mái hơn.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **search** (v) tìm kiếm, tra cứu
+- [S] seek, look for (v) tìm kiếm
+- [R] in search of (n) tìm kiếm
+- [R] search engine (n) máy dò tìm
+
+<div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">search có thể làm danh từ</div>
+
+|	We're searching for some good, cheap office furniture.	|	Chúng tôi đang tìm một số đồ đạc văn phòng tốt mà rẻ.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **software** (n) phần mềm
+- [A] hardware (n) phần cứng
+- [R] word processing software (n) phần mềm xử lý văn bản
+- [R] design software (n) phần mềm thiết kế
+- [R] antivirus software (n) phần mền diệt vi rút
+
+|	Purchasing software for all the computers can be very expensive.	|	Mua phần mềm cho tất cả máy tính có thể rất tốn kèm.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+### 2-5. Office Procedures (Quy trình văn phòng)
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/750-words/TRACK11.mp3 %}
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **access** (n) sự truy cập, lối vào
+- [S] doorway, entry, gateway (n) lối vào
+- [R] remote access (v) truy cập từ xa
+- [R] accessible (adj) có thể truy cập được
+
+<div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">khi access làm động từ chỉ "lấy thông tin (máy tính)"</div>
+
+|	We now have access to the Internet.	|	Bây giờ chúng tôi truy cập Internet.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **beforehand** (adv) trước, trước tiên
+- [S] in advance, previously (adv) trước, trước tiên
+- [A] afterward (adv) sau, sau đó
+
+|	If you need to take a day off, be sure to tell the manager beforehand.	|	Nếu bạn cần nghỉ một ngày, chắc chắn phải nói trước với giám đốc
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **code** (n) mật mã, mã số, quy tắc
+- [R] dress code (n) quy cách ăn mặc
+- [R] code of conduct, code of behavior (n) quy tắc đạo đức, quy tắc ứng xử
+
+<div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">code có thể chỉ "mật mã, thông tin bảo mật"</div>
+
+|	We don't have a dress code in the office, but it's better to wear something smart.	|	Chúng ta không cần phải ăn mặc đúng quy cách tại công sở, nhưng tốt hơn là chúng ta nên mặc đồ lịch sự.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **complication** (n) sự rắc rối, sự phức tạp
+- [S] difficulty, complexity (n) sự khó khăn, sự phức tạp
+- [R] complicate (v) làm phức tạp, làm phiền phức
+- [R] complicated (adj) phức tạp, phiền phức
+
+<div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">complication có thể chỉ "biến chứng", nhưng khi mang ý nghĩa này thường dùng với dạng số nhiều.</div>
+
+|	To avoid complications, it's better to let the manager fix any problems that aren't part of your job.	|	Để tránh những rắc rối, tốt hơn nên để giám đốc giải quyết những vấn đề không phải là việc của bạn.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **display** (v) phơi bày, trưng bày
+- [S] show (v) phơi bày, chỉ ra
+
+<div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">khi là danh từ ý chỉ "biểu diwwnx, triển lãm, sản phẩm triển lãm, trưng bày"</div>
+
+|	The office rules are displayed on the message board.	|	Quy định của văn phòng được nêu rõ trên bảng dán thông báo.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **duplicate** (n) bản sao
+- [S] copy (n) bản sao
+- [R] duplication (n) sự sao chép
+
+<div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">có thể làm động từ, chỉ "phục chế, sao chép". Cũng có thể làm tính từ, chỉ "thuộc về phục chế"</div>
+
+|	Give the customer the original invoice and keep the duplicate for our records.	|	Đưa cho khách hàng hóa đơn gốc và giữ lại bản sao để chúng ta lưu trữ.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **facilitate** (v) tạo điều kiện thuận lợi
+- [A] complicate (v) làm cho phiền phức
+- [R] facilitation (n) sự tạo điều kiện thuận lợi
+
+|	An open office facilitates teamwork; one with many small offices and closed doors doesn't.	|	Một văn phòng mở tạo điều kiện thuận lợi để làm việc theo nhóm; một văn phòng với nhiều văn phòng nhỏ và cửa đóng không làm được như vậy.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **process** (n) quy trình
+- [S] procedure (n) quy trình, thủ tục
+
+<div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">khi process làm động từ có thể chỉ "xử lý (văn kiện, tài liệu...), gia công (thực phẩm)"</div>
+
+|	All staff must follow the same process for booking time off work.	|	Tất cả nhân viên phải theo cùng một quy trình để xin nghỉ phép.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **practice** (v) thực hành, luyện tập
+- [R] practiced (adj) khéo léo (trong công việc)
+- [R] practitioner (n) người hành nghề
+
+<div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">kiểu viết của người Anh là "practise". Ngoài ra, "practice" còn có thể dùng như danh từ.</div>
+
+|	Every three months, we practice what to do if there is a fire.	|	Cứ 3 tháng 1 lần, chúng tôi luyện tập những việc phải làm nếu có hỏa hoạn.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **reduction** (n) sự giảm xuống
+- [S] decrease, decline, drop (n) giảm, làm giảm
+- [A] increase, boost, raise (n) tăng, đẩy mạnh
+- [R] reduce (v) làm giảm
+
+|	Recycling helped us achieve a big reduction in paper costs last year.	|	Việc tái chế giúp chúng ta giảm đáng kể chi phí giấy vào năm ngoái
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **revise** (v) sửa đổi
+- [S] modify, amend, edit (v) sửa đổi
+- [R] revision (n) sự sửa đổi
+
+|	The office rules are being revised, so we'll have new ones very soon.	|	Những quy định của văn phòng được sửa đổi, vì thế chúng ta sẽ có những quy định mới ngay.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **stock** (n) hàng tồn kho, kho hàng
+- [R] stock price (n) giá cổ phiếu
+- [R] stock company (n) công ty cổ phần
+- [R] stockbroker (n) người buôn bán chứng khoán
+
+<div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">ngoài ra có thể chỉ "cổ phần, cổ phiếu" giống như "share"</div>
+
+|	If you need any stock for your department, just ask your supervisor.	|	Nếu bạn cần hàng cho ban của bạn, hãy hỏi người giám sát.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **warning** (n) lời cảnh báo
+- [S] alarm, alert, caution (n) cảnh báo, lưu ý
+- [R] written warning, verbal warning (n) cảnh báo bằng văn bản, cảnh báo bằng miệng
+- [R] warn (v) cảnh báo
+
+<div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">cũng có thể làm tính từ, biểu thị "cảnh cáo", ví dụ: warning sign (thông tin/tín hiệu cảnh báo)</div>
+
+|	If you keep breaking office rules, the manager will give you a written warning.	|	Nếu bạn vẫn cứ vi phạm quy định của văn phòng, giám đốc sẽ cảnh báo bạn bằng văn bản.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+<hr>
+
+[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
+- **verbally** (adv) bằng lời nói, bằng miệng
+- [R] verbal (adj) bằng lời nói, bằng miệng
+
+|	Employees should be told in writing that they are being fired, but only after first being told verbally.	|	Nhân viên được thông báo bằng văn bản rằng họ bị sa thải, nhưng chỉ sau khi họ được thông báo trước bằng miệng.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
