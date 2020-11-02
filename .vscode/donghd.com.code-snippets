@@ -207,13 +207,6 @@
 		],
 		"description": "donghd.com simple table"
 	},
-	"donghd.com hint 750 words": {
-		"prefix": "dh750hint",
-		"body": [
-			"[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)"
-		],
-		"description": "donghd.com hint 750 words"
-	},
 	"donghd.com insert an mp3 player": {
 		"prefix": "dhmp3",
 		"body": [
