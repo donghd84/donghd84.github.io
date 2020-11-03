@@ -22,7 +22,7 @@
                     { "title": "Node.js", "src": "/assets/img/stacks/nodejs.png" },
                     { "title": "Google Firebase", "src": "/assets/img/stacks/firebase.png" }
                 ],
-                "link": "https://tempmail.donghd.com/#/temporary-email-address",
+                "link": "#",
                 "article": "",
                 "promo": false
             },
@@ -34,7 +34,7 @@
                     { "title": "Angular", "src": "/assets/img/stacks/angular.png" },
                     { "title": "Material design", "src": "/assets/img/stacks/material_design_192px.svg" }
                 ],
-                "link": "https://tempmail.donghd.com/#/typing-speed",
+                "link": "#",
                 "article": "",
                 "promo": false
             }

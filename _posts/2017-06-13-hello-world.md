@@ -12,6 +12,7 @@ header: Hello World
 ### cover image size: 1068x703
 # coverImg: https://picsum.photos/900/500?grayscale
 # coverImg: /assets/img/articles/demo/940-900x500-grayscale.jpg
+coverImg: /assets/img/articles/demo/helloword2.jpg
 effect: true
 # thumbnail image size: 300x251
 # thumbnailImg: /assets/img/articles/demo/940-900x500-grayscale.jpg

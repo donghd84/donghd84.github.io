@@ -23,39 +23,6 @@ collections:
     output: true
   authors:
     output: true
-  # BEGIN serials
-  game-development:
-    output: true
-    # "isSerial" và "show" để filter
-    isSerial: true
-    show: true
-    # phải có "/collections/" vì đã được hardcore URL trong "categories" và đường dẫn đến "search.json" trong INDEX
-    permalink: /collections/game-development/:title
-    # thumbnail: "/path/to/image.jpg"
-    title: "Game Development"
-    description: "Tổng hợp các ghi chép trên con đường chinh phục Game Development ^^"
-  english:
-    output: true
-    # "isSerial" và "show" để filter
-    isSerial: true
-    show: true
-    # phải có "/collections/" vì đã được hardcore URL trong "categories" và đường dẫn đến "search.json" trong INDEX
-    permalink: /collections/english/:title
-    # thumbnail: "/path/to/image.jpg"
-    title: "Learning English"
-    description: "Tổng hợp các ghi chép trên con đường chinh phục tiếng anh :)"
-  mobile-development:
-    output: true
-    # "isSerial" và "show" để filter
-    isSerial: true
-    show: true
-    # phải có "/collections/" vì đã được hardcore URL trong "categories" và đường dẫn đến "search.json" trong INDEX
-    permalink: /collections/mobile-development/:title
-    # thumbnail: "/path/to/image.jpg"
-    title: "Mobile Development"
-    description: "Tổng hợp các ghi chép trên con đường chinh phục Mobile Development :D"
-  # END serials
-
 # Plugins
 plugins:
   - jekyll-paginate-v2
