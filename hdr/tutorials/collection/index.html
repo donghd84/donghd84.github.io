@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <Style>
+        .w100h100 {
+            width: 100%;
+            height: 100%;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        body {
+            font-family: Arial;
+        }
+
+        #scrollTopBtn {
+            display: none;
+            position: fixed;
+            bottom: 1em;
+            right: 1em;
+        }
+
+        /* W3CSS card */
+        .w3-card {
+            box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12)
+        }
+
+        .w3-ul li:hover {
+            background-color: #ccc
+        }
+
+        .w3-ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0
+        }
+
+        .w3-ul li {
+            padding: 8px 16px;
+            border-bottom: 1px solid #ddd
+        }
+
+        .w3-ul li:last-child {
+            border-bottom: none
+        }
+
+        /* Style the tab */
+        .tab {
+            overflow: hidden;
+            border: 1px solid #ccc;
+            background-color: #f1f1f1;
+        }
+
+        /* Style the buttons inside the tab */
+        .tab button {
+            background-color: inherit;
+            float: left;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            padding: 14px 16px;
+            transition: 0.3s;
+            font-size: 17px;
+        }
+
+        /* Change background color of buttons on hover */
+        .tab button:hover {
+            background-color: #ddd;
+        }
+
+        /* Create an active/current tablink class */
+        .tab button.active {
+            background-color: #ccc;
+        }
+
+        /* Style the tab content */
+        .tabcontent {
+            display: none;
+            padding: 6px 12px;
+            -webkit-animation: fadeEffect 1s;
+            animation: fadeEffect 1s;
+        }
+
+        /* Fade in tabs */
+        @-webkit-keyframes fadeEffect {
+            from {
+                opacity: 0;
+            }
+
+            to {
+                opacity: 1;
+            }
+        }
+
+        @keyframes fadeEffect {
+            from {
+                opacity: 0;
+            }
+
+            to {
+                opacity: 1;
+            }
+        }
+    </Style>
+    <script>
+        function openTab(evt, tabName) {
+            var i, tabcontent, tablinks;
+            tabcontent = document.getElementsByClassName("tabcontent");
+            for (i = 0; i < tabcontent.length; i++) {
+                tabcontent[i].style.display = "none";
+            }
+            tablinks = document.getElementsByClassName("tablinks");
+            for (i = 0; i < tablinks.length; i++) {
+                tablinks[i].className = tablinks[i].className.replace(" active", "");
+            }
+            document.getElementById(tabName).style.display = "block";
+            evt.currentTarget.className += " active";
+        }
+
+        function smoothScroll(targetId) {
+            var target = document.getElementById(targetId);
+            var scrollContainer = target;
+            do { //find scroll container
+                scrollContainer = scrollContainer.parentNode;
+                if (!scrollContainer) return;
+                scrollContainer.scrollTop += 1;
+            } while (scrollContainer.scrollTop == 0);
+
+            var targetY = 0;
+            do { //find the top of target relatively to the container
+                if (target == scrollContainer) break;
+                targetY += target.offsetTop;
+            } while (target = target.offsetParent);
+
+            scroll = function (c, a, b, i) {
+                i++; if (i > 30) return;
+                c.scrollTop = a + (b - a) / 30 * i;
+                setTimeout(function () { scroll(c, a, b, i); }, 20);
+            }
+            // start scrolling
+            scroll(scrollContainer, scrollContainer.scrollTop, targetY, 0);
+        }
+    </script>
+</head>
+
+<body>
+    <div class="container">
+        <h1 id="TopPage">Collection Help</h1>
+
+        <div class="tab">
+            <button class="tablinks" onclick="openTab(event, 'English')">English</button>
+            <button class="tablinks" onclick="openTab(event, 'Vietnamese')">Vietnamese</button>
+        </div>
+        <div id="English" class="tabcontent">
+            <ul class="w3-ul">
+                <li onclick="smoothScroll('CreateNewCollection')">Create a new Collection</li>
+                <li onclick="smoothScroll('EditCreatedCollection')">Edit a created Collection</li>
+                <li onclick="smoothScroll('StudyWithFlashcards')">Learn with Flashcards</li>
+                <li onclick="smoothScroll('UsingPlayerControl')">Use Player Controls</li>
+                <li onclick="smoothScroll('ChooseCardsToReview')">Choose Card(s) to review</li>
+            </ul>
+            <p id="CreateNewCollection">
+                <img src="en1.png"><br />
+                <img src="en2.png"><br />
+                <img src="en3.png">
+            </p>
+            </br></br>
+            <p id="EditCreatedCollection">
+                <img src="en4.png"><br />
+                <img src="en5.png"><br />
+                <img src="en6.png">
+            </p>
+            </br></br>
+            <p id="StudyWithFlashcards">
+                <img src="en7.png"><br />
+                <img src="en8.png">
+            </p>
+            </br></br>
+            <p id="UsingPlayerControl">
+                <img src="en9.png"><br />
+                <img src="en10.png">
+            </p>
+            </p>
+            </br></br>
+            <p id="ChooseCardsToReview">
+                <img src="en11.png"><br />
+                <img src="en12.png"><br />
+                <img src="en13.png"><br />
+                <img src="en14.png">
+            </p>
+        </div>
+
+        <div id="Vietnamese" class="tabcontent">
+            <ul class="w3-ul">
+                <li onclick="smoothScroll('CreateNewCollectionVN')">Tạo mới một Collection</li>
+                <li onclick="smoothScroll('EditCreatedCollectionVN')">Chỉnh sửa một Collection đã tạo</li>
+                <li onclick="smoothScroll('StudyWithFlashcardsVN')">Học tập với Flashcard</li>
+                <li onclick="smoothScroll('UsingPlayerControlVN')">Sử dụng Player Control</li>
+                <li onclick="smoothScroll('ChooseCardsToReviewVN')">Lựa chọn Cards để ôn tập</li>
+            </ul>
+            <p id="CreateNewCollectionVN">
+                <img src="vn1.png"><br />
+                <img src="vn2.png"><br />
+                <img src="vn3.png">
+            </p>
+            </br></br>
+            <p id="EditCreatedCollectionVN">
+                <img src="vn4.png"><br />
+                <img src="vn5.png"><br />
+                <img src="vn6.png">
+            </p>
+            </br></br>
+            <p id="StudyWithFlashcardsVN">
+                <img src="vn7.png"><br />
+                <img src="vn8.png">
+            </p>
+            </br></br>
+            <p id="UsingPlayerControlVN">
+                <img src="vn9.png"><br />
+                <img src="vn10.png">
+            </p>
+            </p>
+            </br></br>
+            <p id="ChooseCardsToReviewVN">
+                <img src="vn11.png"><br />
+                <img src="vn12.png"><br />
+                <img src="vn13.png"><br />
+                <img src="vn14.png">
+            </p>
+        </div>
+        </br></br>
+    </div>
+
+    <button onclick="smoothScroll('TopPage')" id="scrollTopBtn">Go to top</button>
+    <script>
+        // Scroll to top
+        const scrollTopBtn = document.getElementById("scrollTopBtn");
+        window.onscroll = function scrollFunction() {
+            // go to top
+            if (document.body.scrollTop > 30 || document.documentElement.scrollTop > 30) {
+                scrollTopBtn.style.display = "block";
+            } else {
+                scrollTopBtn.style.display = "none";
+            }
+        }
+    </script>
+</body>
+
+</html>
