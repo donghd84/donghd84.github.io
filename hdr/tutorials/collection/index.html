@@ -155,7 +155,7 @@
         <h1 id="TopPage">Collection Help</h1>
 
         <div class="tab">
-            <button class="tablinks" onclick="openTab(event, 'English')">English</button>
+            <button class="tablinks active" onclick="openTab(event, 'English')">English</button>
             <button class="tablinks" onclick="openTab(event, 'Vietnamese')">Vietnamese</button>
         </div>
         <div id="English" class="tabcontent">
@@ -250,6 +250,8 @@
                 scrollTopBtn.style.display = "none";
             }
         }
+
+        document.getElementById('English').style.display = "block";
     </script>
 </body>
 
