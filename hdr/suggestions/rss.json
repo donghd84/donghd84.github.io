@@ -1,15 +1,5 @@
 [
     {
-        "title": "Grammarly Blog",
-        "description": "Writing, grammar rules, communication tips, and advice to help you write your best, wherever you write. Grammarly makes sure everything you type is easy to read, effective, and mistake-free.",
-        "imgUrl": "https://app.donghd.com/hdr/images/branches/4509416.jpg",
-        "bgColor": "#009673E6",
-        "location": "San Francisco, California, US",
-        "frequency": "6 posts / week",
-        "domain": "https://www.grammarly.com",
-        "rssUrl": "https://www.grammarly.com/blog/feed/"
-    },
-    {
         "title": "QuillBot Blog",
         "description": "Focuses on topics related to writing and research, writing tips, best practices in research, helpful how to's, grammar advice, support for English Language Learners (ELLs), career profiles, case studies, and more.",
         "imgUrl": "https://app.donghd.com/hdr/images/branches/5305439.jpg",
