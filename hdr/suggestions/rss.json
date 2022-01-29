@@ -1,15 +1,5 @@
 [
     {
-        "title": "QuillBot Blog",
-        "description": "Focuses on topics related to writing and research, writing tips, best practices in research, helpful how to's, grammar advice, support for English Language Learners (ELLs), career profiles, case studies, and more.",
-        "imgUrl": "https://app.donghd.com/hdr/images/branches/5305439.jpg",
-        "bgColor": "#004D0DE6",
-        "location": "",
-        "frequency": "2 posts / month",
-        "domain": "https://quillbot.com",
-        "rssUrl": "https://quillbot.com/blog/rss/"
-    },
-    {
         "title": "EF English Live Blog",
         "description": "Founded in 1996, EF English Live has been at the cutting edge of language learning for nearly two decades, having been the first to pioneer a 24-hour teacher-led online English course . Backed by a world-class team of academic and technical experts, plus 2,000 certified online English teachers, our mission is to use technology to create a fundamentally better way to learn English. Read our blog to find useful articles about grammar, learning english online, travel and how to excel in your career with language learning.",
         "imgUrl": "https://app.donghd.com/hdr/images/branches/5293931.jpg",
